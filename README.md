@@ -16,8 +16,8 @@ HandwerkerPro ist eine ganzheitliche Full-Stack-Lösung, die speziell für die A
 
 Dieses Projekt dient auch als umfassendes Praxisbeispiel für Bildungszwecke.
 
-    **Es enthält alle SQL-Befehle, die in jeder einzelnen Sprint-Phase erstellt wurden. Die Anforderungen und Aufgaben wurden hierbei von einem Dozenten in der Rolle des Kunden vorgegeben.**
+Es enthält alle SQL-Befehle, die in jeder einzelnen Sprint-Phase erstellt wurden. Die Anforderungen und Aufgaben wurden hierbei von einem Dozenten in der Rolle des Kunden vorgegeben.
 
 ### 🏗 Technischer Aufbau
 
-    Datenbank: MySQL – mit fortschrittlicher Nutzung von Stored Procedures, Triggern und Indizes für maximale Performance und Konsistenz.
+Datenbank: MySQL – mit fortschrittlicher Nutzung von Stored Procedures, Triggern und Indizes für maximale Performance und Konsistenz.
