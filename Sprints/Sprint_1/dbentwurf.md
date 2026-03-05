@@ -435,3 +435,5 @@ Die zentrale Tabelle bildet  **auftrag** , da hier alle Geschäftsprozesse zusam
 ---
 
 # ERD
+
+![](./Sprints/Sprint_1/ERD.png)
