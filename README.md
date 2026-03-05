@@ -27,4 +27,4 @@ Datenbank: MySQL – mit fortschrittlicher Nutzung von Stored Procedures, Trigge
 
 ### Database Schema
 
-![Database Schema](./Sprint_1/ERD.png)
+![](./Sprints/Sprint_1/ERD.png)
