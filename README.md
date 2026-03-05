@@ -1,6 +1,9 @@
-# CNR Handwerker PLUS
+# CNR Handwerker PLUS   
 
 ## Die smarte Handwerker-Verwaltung
+
+**Projektfortschritt:**
+<progress value="60" max="100"></progress> 60%
 
 ![](./images/handwerkerpro.jpg)
 
