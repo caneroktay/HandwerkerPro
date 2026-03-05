@@ -2,7 +2,7 @@
 
 ## Die smarte Handwerker-Verwaltung
 
-**Projektfortschritt:**  ![Progress Bar](https://geps.dev/progress/60)      ![Progress Bar](https://img.shields.io/badge/handwerkerPlus-60%40-orange)
+**Projektfortschritt:**  ![Progress Bar](https://geps.dev/progress/60)
 
 ![](./images/handwerkerpro.jpg)
 
